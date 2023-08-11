@@ -1,0 +1,12 @@
+LONGINT#ID
+STR#70#Name
+STR#21#Identity
+STR#19#Alignment
+STR#15#EyeColor
+STR#16#HairColor
+STR#12#Gender
+STR#9#Status
+INT#Appearances
+STR#18#FirstAppearance
+INT#YEAR
+STR#7#UNIVERSE

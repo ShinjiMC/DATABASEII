@@ -1,0 +1,10 @@
+# Ignorar archivos específicos
+DBV5.2.vcxproj
+DBV5.2.vcxproj.filters
+DBV5.2.vcxproj.user
+DBV5.2.sln
+
+# Ignorar carpetas específicas
+Disk/
+x64/
+.vs/
